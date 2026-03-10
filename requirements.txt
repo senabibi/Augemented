@@ -1,0 +1,26 @@
+# MARA — Memory-Augmented Retail Agent
+# H&M Fashion Edition — Requirements
+
+# Core API
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+
+# Vector Database
+qdrant-client==1.11.3
+
+# Embeddings
+sentence-transformers==3.2.1
+torch==2.4.1
+
+# LLM
+groq==0.11.0
+
+# Data Processing
+pandas==2.2.3
+numpy==1.26.4
+tqdm==4.66.5
+
+# Optional: HuggingFace dataset loader
+datasets==3.0.1
