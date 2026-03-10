@@ -92,7 +92,7 @@ python hm_data_loader.py
 python main.py
 ```
 
-Visit [http://localhost:8000/docs](http://localhost:8000/docs) to explore the API.
+Visit your [url/docs] to explore the API.
 
 ---
 
