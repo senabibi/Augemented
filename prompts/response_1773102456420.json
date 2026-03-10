@@ -1,0 +1,90 @@
+{
+  "reply": "Perfect timing for a wardrobe refresh. I've got just the thing for you. Considering your love for black basics and Divided style, I recommend the Maddy V-neck Tee in black. It's a great piece for the autumn transition and fits within your budget. The MARA score for this item is 0.4656, indicating a strong match for your preferences. Shall I show you more options like this?",
+  "meta": {
+    "user_id": "***",
+    "constraint_violation": false,
+    "violations": [],
+    "budget_applied": 2354.1,
+    "gender_index": "Divided",
+    "memories_used": {
+      "structural": 3,
+      "semantic": 2,
+      "episodic": 6
+    },
+    "memory_scores": {
+      "structural_avg": 0.8487,
+      "semantic_avg": 0.3245,
+      "episodic_avg": 0.2017
+    },
+    "top_products": [
+      {
+        "article_id": "189691033",
+        "prod_name": "Carolina sweater (1)",
+        "product_type_name": "Sweater",
+        "colour_group_name": "Black",
+        "garment_group_name": "Jersey Basic",
+        "detail_desc": "Long-sleeved top in sweatshirt fabric with ribbing at the cuffs and hem.",
+        "index_name": "Divided",
+        "base_similarity": 0.3835,
+        "mara_score": 0.4851,
+        "preference_boost": 1.265
+      },
+      {
+        "article_id": "331093001",
+        "prod_name": "LEA jumpsuit",
+        "product_type_name": "Dress",
+        "colour_group_name": "Black",
+        "garment_group_name": "Jersey Basic",
+        "detail_desc": "Sleeveless jersey jumpsuit with a deep neckline at the back, elasticated seam at the waist, side pockets and tapered legs.",
+        "index_name": "Divided",
+        "base_similarity": 0.3714,
+        "mara_score": 0.4699,
+        "preference_boost": 1.265
+      },
+      {
+        "article_id": "331093002",
+        "prod_name": "LEA jumpsuit",
+        "product_type_name": "Dress",
+        "colour_group_name": "Black",
+        "garment_group_name": "Jersey Basic",
+        "detail_desc": "Sleeveless jersey jumpsuit with a deep neckline at the back, elasticated seam at the waist, side pockets and tapered legs.",
+        "index_name": "Divided",
+        "base_similarity": 0.3714,
+        "mara_score": 0.4699,
+        "preference_boost": 1.265
+      }
+    ],
+    "top_memories": [
+      {
+        "type": "structural",
+        "text": "Customer age: 27 — relevant for style recommendations",
+        "score": 1.0096
+      },
+      {
+        "type": "structural",
+        "text": "Maximum budget: 4 SEK (derived from purchase history p25)",
+        "score": 0.8794
+      },
+      {
+        "type": "structural",
+        "text": "Primary shopping section: Divided",
+        "score": 0.657
+      },
+      {
+        "type": "semantic",
+        "text": "Preferred colors: Black, White, Beige",
+        "score": 0.3524
+      },
+      {
+        "type": "semantic",
+        "text": "Preferred garment types: Jersey Basic, Knitwear, Trousers",
+        "score": 0.2965
+      },
+      {
+        "type": "episodic",
+        "text": "Recently purchased: Birgit Tunic (Light Beige, Blouses) at 50 SEK - -141 days ag",
+        "score": 0.2102
+      }
+    ]
+  }
+}
